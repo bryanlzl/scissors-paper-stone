@@ -30,5 +30,5 @@ An implementation of Rock Paper Scissors game (A.K.A scissors paper stone) writt
 - Game record is saved in local (not erased on page refresh)
 - Autoplay for y'all productivity people! 
 
-## How to run
+## How to start
 Just run scissors-paper-stone.html
