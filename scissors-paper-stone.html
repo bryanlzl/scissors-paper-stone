@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Scissors Paper Stone!</title>
+    <meta name="description" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="./styles/scissors-paper-stone.css" />
+  </head>
+  <body>
+    <main class="game-window">
+      <header class="game-header">Scissors Paper Stone</header>
+      <section class="game-main-grid">
+        <button class="game-move-button" id="scissors">
+          <img class="game-move-icon" src="./assets/icons/scissors-emoji.png" />
+        </button>
+
+        <button class="game-move-button" id="paper">
+          <img class="game-move-icon" src="./assets/icons/paper-emoji.png" />
+        </button>
+
+        <button class="game-move-button" id="stone">
+          <img class="game-move-icon" src="./assets/icons/rock-emoji.png" />
+        </button>
+      </section>
+
+      <section class="game-information-panel">
+        <p class="game-outcome"></p>
+        <div class="commentary-parent">
+          <p style="text-align: center">You</p>
+          <p class="commentary-placeholder" style="text-align: center">Com</p>
+        </div>
+        <p class="game-history"></p>
+      </section>
+      <div>
+        <button class="reset-score">Reset Score</button>
+        <button class="auto-play">Auto Play</button>
+      </div>
+    </main>
+    <script src="./scripts/scissors-paper-stone.js"></script>
+  </body>
+</html>
