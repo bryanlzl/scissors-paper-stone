@@ -1,4 +1,4 @@
-# Scissors Paper Stone! ![License](https://img.shields.io/badge/license-MIT-blue) ![License](https://img.shields.io/badge/clone%20count-25-green)
+# Scissors Paper Stone ![License](https://img.shields.io/badge/license-MIT-blue) ![License](https://img.shields.io/badge/clone%20count-25-green)
 An implementation of Rock Paper Scissors game (A.K.A scissors paper stone) written in vanilla Javascript.
 
 ![image](https://github.com/bryanlzl/scissors-paper-stone/assets/58539426/94c0f6dd-4f04-49f7-84ad-9bbc4983bbc4)
